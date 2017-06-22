@@ -1,0 +1,51 @@
+
+
+body
+{
+font: "Helvetica Neue", Helvetica, sans-serif;
+#background-color: #f0f0f0;
+#color: #ffffff;
+ background-image: url("welcome.jpg");
+ background-repeat: no-repeat;
+ background-size: 1500px 1000px;
+
+  #opacity: 0.85;
+}
+
+#main
+{
+font: "Helvetica Neue", Helvetica, sans-serif;
+padding: 30px;
+#background-color: #acacac;
+
+}
+
+
+h1
+{
+font: "Helvetica Neue", Helvetica, sans-serif;
+border-bottom: 3px solid #0f0f0f;
+#background-color: #414141;
+}
+
+footer
+{
+font: "Helvetica Neue", Helvetica, sans-serif;
+background-color: #414141;
+border-bottom: 3px solid #a52a2a;
+}
+ 
+.green{
+background-color:green;
+}
+
+.orange{
+background:orange;
+}
+
+.red{
+background:red;
+}
+
+
+

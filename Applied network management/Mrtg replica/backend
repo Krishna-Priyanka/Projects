@@ -1,0 +1,14 @@
+#!/bin/sh
+
+
+while :
+do
+	STARTTIME=$(date +%s)
+	perl ./backend.pl
+	ENDTIME=$(date +%s)
+	echo "------------"
+	echo "Running script "
+	
+	sleep 60
+
+done
